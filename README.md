@@ -2,7 +2,7 @@
 - 👀 I’m interested in Audio, Gaming and fixing things all the time (Mainly docker and Ark servers!)
 - 🌱 I’m currently learning how to code in C/C++ and bash
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: Here!
+- 📫 How to reach me: https://hello.lssound.design/
 
 <!---
 Nazza01/Nazza01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
