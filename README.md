@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nazza01
+- 👋 Hi, I’m Nathanael
 - 👀 I’m interested in Audio, Gaming and fixing things all the time (Mainly docker and Ark servers!)
 - 🌱 I’m currently learning how to code in C/C++ and bash
 - 💞️ I’m looking to collaborate on anything!
